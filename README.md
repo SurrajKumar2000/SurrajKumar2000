@@ -1,4 +1,4 @@
- # :collision: Hi Fellas :collision:
+ # :collision: Hello, Fellas :collision:
 
 ### I'm SurrajKumar!
 
