@@ -24,5 +24,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SurrajKumar2000)
 
 
-[![SK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SurrajKumar2000)](#)
+<h2>📫 How to reach me:</h2>
 
+<a href="mailto:surrajkumar2000@gmail.com">![surrajkumar2000@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
