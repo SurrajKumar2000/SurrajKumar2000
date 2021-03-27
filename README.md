@@ -1,4 +1,4 @@
-# Hi Fellas:exclamation: 👋
+ # :collision: Hi Fellas :collision:
 
 I'm SurrajKumar!
 
