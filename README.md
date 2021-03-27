@@ -17,5 +17,5 @@
    * An Automated Mobile Cloud-based Diagnosis System for Early Detection of Optical Neuritis and Follow-up 
 
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&theme=highcontrast&show_icons=true&count_private=true)
 
