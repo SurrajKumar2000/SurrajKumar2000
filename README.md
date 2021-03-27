@@ -12,6 +12,10 @@ I'm SurrajKumar!
          - IT 8601 Computational Intelligence 
          - IT 8076 Software Testing
 
+## :mag_right: Currently Working On:
+
+         *An Automated Mobile Cloud-based Diagnosis System for Early Detection of Optical Neuritis and Follow-up*
+
 
 
 
