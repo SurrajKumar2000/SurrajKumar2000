@@ -16,10 +16,10 @@
 
    * An Automated Mobile Cloud-based Diagnosis System for Early Detection of Optical Neuritis and Follow-up 
 
- ## My Profile Views :<br>
+ ## :eyes: My Profile Views :<br>
   <img src="https://profile-counter.glitch.me/SurrajKumar2000/count.svg" />
 
-## :eyes: GitHub Stats
+## :loud_sound: GitHub Stats
 
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000)](#)
 
