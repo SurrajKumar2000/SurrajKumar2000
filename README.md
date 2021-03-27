@@ -4,7 +4,7 @@
 
    * Currently: B.Tech IT Student @ St.Joseph's College of Engineering at Chennai.
   
-## :desktop_computer:  I'm Currently Learning
+## :desktop_computer:   I'm Currently Learning
     
  **St.Joseph's College of Engineering**
 
