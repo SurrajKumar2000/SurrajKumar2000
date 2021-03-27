@@ -6,7 +6,7 @@ I'm SurrajKumar!
   
 ## :computer:  I'm Currently Learning
     
-    St.Joseph's College of Engineering
+ **St.Joseph's College of Engineering**
 
          - CS 8091 Big Data Analytics
          - IT 8601 Computational Intelligence 
