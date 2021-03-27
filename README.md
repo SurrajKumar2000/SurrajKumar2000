@@ -10,6 +10,7 @@ I'm SurrajKumar!
 
          - CS 8091 Big Data Analytics
          - IT 8601 Computational Intelligence 
+         - IT 8076 Software Testing
 
 
 
