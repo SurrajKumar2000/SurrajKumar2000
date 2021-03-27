@@ -4,7 +4,7 @@ I'm SurrajKumar!
 
      *Currently: B.Tech IT Student @ St.Joseph's College of Engineering at Chennai.
   
-##:computer:  I'm Currently Learning
+## :computer:  I'm Currently Learning
     
 St.Joseph's College of Engineering
 
