@@ -14,6 +14,6 @@ St.Joseph's College of Engineering
 
 
 
-:mailbox_with_no_mail: How to reach me:
+//:mailbox_with_no_mail: How to reach me:
 
 
