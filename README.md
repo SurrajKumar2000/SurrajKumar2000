@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi Fellas 👋
 
 I'm SurrajKumar!
 
