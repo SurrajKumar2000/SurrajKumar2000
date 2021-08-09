@@ -9,8 +9,8 @@
  **St.Joseph's College of Engineering**
 
          - CS 8091 Big Data Analytics
-         - IT 8601 Computational Intelligence 
-         - IT 8076 Software Testing
+         - CS 8792 Cryptography & Network Security
+         - CS 8791 Cloud Computing 
 
 ## :mag_right: Currently Working On
 
