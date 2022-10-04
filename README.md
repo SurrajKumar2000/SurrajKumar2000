@@ -5,8 +5,6 @@
    * Currently: M.S.Computer Science in California State University, Fullerton, USA.
   
 ## :desktop_computer:   I'm Currently Learning
-    
- **St.Joseph's College of Engineering**
 
          - CS 481 Artificial Intelligence
          - CS 411 Mobile Application Development 
