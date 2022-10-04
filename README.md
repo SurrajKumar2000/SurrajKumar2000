@@ -2,20 +2,14 @@
 
 ### I'm SurrajKumar!
 
-   * Currently: B.Tech IT Student @ St.Joseph's College of Engineering at Chennai.
+   * Currently: M.S.Computer Science in California State University, Fullerton, USA.
   
 ## :desktop_computer:   I'm Currently Learning
     
  **St.Joseph's College of Engineering**
 
-         - CS 8091 Big Data Analytics
-         - CS 8792 Cryptography & Network Security
-         - CS 8791 Cloud Computing 
-
-## :mag_right: Currently Working On
-
-   * An Automated Mobile Cloud-based Diagnosis System for Early Detection of Optical Neuritis and Follow-up 
-   * Predicting Lung Cancer Survivability : a Machine Learning Ensemble Method on SEER Data
+         - CS 481 Artificial Intelligence
+         - CS 411 Mobile Application Development 
 
  ## :eyes: My Profile Views :<br>
   <img src="https://profile-counter.glitch.me/SurrajKumar2000/count.svg" />
