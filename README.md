@@ -8,7 +8,11 @@
 
          - CS 481 Artificial Intelligence
          - CS 411 Mobile Application Development 
-
+         - CS 531 Advanced Database Management System
+         - CS 558 Advanced Computer Networks
+         - CS 559 Advanced Blockchain Technologies
+         - CS 599 Independent Graduate Study
+         
  ## :eyes: My Profile Views :<br>
   <img src="https://profile-counter.glitch.me/SurrajKumar2000/count.svg" />
 
