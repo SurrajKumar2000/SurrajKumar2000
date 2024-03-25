@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Surrajkumar Prabhu</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="(https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media)">
 <h3 align="center">A passionate AI/ML Developer</h3>
 
    * Currently: M.S.Computer Science in California State University, Fullerton, USA.
