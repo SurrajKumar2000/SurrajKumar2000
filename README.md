@@ -20,7 +20,6 @@
 ## :loud_sound: GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SurrajKumar2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&show_icons=true&locale=en&theme=tokyonight"/></p>
 
 ![SK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&theme=dark&show_icons=true)
 
