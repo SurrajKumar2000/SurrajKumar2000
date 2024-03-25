@@ -14,6 +14,14 @@
          - CS 558 Advanced Computer Networks
          - CS 559 Advanced Blockchain Technologies
          - CS 599 Independent Graduate Study
+
+
+
+  - 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **LLMs**
+
+- 💬 Ask me about **AI/ML**
          
  ## :eyes: My Profile Views :<br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p>
