@@ -16,6 +16,12 @@
  ## :eyes: My Profile Views :<br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SurrajKumar2000&&theme=xcode)](https://github.com/SurrajKumar2000)
+
+
+
+
 ## :loud_sound: GitHub Stats
 
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000)](#)
