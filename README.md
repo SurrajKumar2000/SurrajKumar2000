@@ -17,7 +17,7 @@
 
 
 
-  - 🔭 I’m currently working on **Vexa Web App**
+  - 🔭 I’m currently working on **LLM based DressShop**
 
 - 🌱 I’m currently learning **LLMs**
 
