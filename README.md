@@ -1,6 +1,6 @@
- # :collision: Hello, Fellas :collision:
 
-### I'm SurrajKumar!
+<h1 align="center">Hi 👋, I'm Surrajkumar Prabhu</h1>
+<h3 align="center">A passionate AI/ML Developer</h3>
 
    * Currently: M.S.Computer Science in California State University, Fullerton, USA.
   
