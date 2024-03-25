@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&show_icons=true&locale=en&theme=tokyonight"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000&&theme=tokyonight"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight"/></p>
 
 <h2>:mailbox_with_mail: Wanna Connect:question:</h2>
 
