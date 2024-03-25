@@ -14,7 +14,7 @@
          - CS 599 Independent Graduate Study
          
  ## :eyes: My Profile Views :<br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ## :loud_sound: GitHub Stats
 
