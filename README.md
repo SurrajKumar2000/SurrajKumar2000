@@ -25,12 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000&&theme=tokyonight"/></p>
 
 
-
-
-
-
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000)](#)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SurrajKumar2000)
 
 
