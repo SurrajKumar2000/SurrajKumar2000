@@ -18,6 +18,11 @@
 
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SurrajKumar2000&&theme=xcode)](https://github.com/SurrajKumar2000)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SurrajKumar2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&show_icons=true&locale=en&theme=tokyonight"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000&&theme=tokyonight"/></p>
 
 
 
