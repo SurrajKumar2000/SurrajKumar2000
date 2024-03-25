@@ -6,19 +6,8 @@
 <h3 align="center">A passionate AI/ML Developer</h3>
 
    * Currently: M.S.Computer Science in California State University, Fullerton, USA.
-  
-## :desktop_computer:   I'm Currently Learning
 
-         - CS 481 Artificial Intelligence
-         - CS 411 Mobile Application Development 
-         - CS 531 Advanced Database Management System
-         - CS 558 Advanced Computer Networks
-         - CS 559 Advanced Blockchain Technologies
-         - CS 599 Independent Graduate Study
-
-
-
-  - 🔭 I’m currently working on **LLM based DressShop**
+- 🔭 I’m currently working on **LLM based DressShop**
 
 - 🌱 I’m currently learning **LLMs**
 
