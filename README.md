@@ -17,7 +17,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SurrajKumar2000&&theme=xcode)](https://github.com/SurrajKumar2000)
+## :loud_sound: GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SurrajKumar2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&show_icons=true&locale=en&theme=tokyonight"/></p>
@@ -27,7 +27,7 @@
 
 
 
-## :loud_sound: GitHub Stats
+
 
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000)](#)
 
