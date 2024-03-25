@@ -24,10 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000&&theme=tokyonight"/></p>
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SurrajKumar2000)
-
-
 <h2>:mailbox_with_mail: Wanna Connect:question:</h2>
 
 <a href="mailto:surrajkumar2000@gmail.com">![surrajkumar2000@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
