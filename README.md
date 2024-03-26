@@ -29,4 +29,4 @@
 
 
 
-[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SurrajKumar2000&repo=SurrajKumar2000/LLM-DressShop&theme=ambient_gradient
+[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
