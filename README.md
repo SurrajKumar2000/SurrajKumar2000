@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Surrajkumar Prabhu</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">A passionate AI/ML Developer</h3>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p> <h3 align="center">A passionate AI/ML Developer</h3>
 
 
 
@@ -13,9 +14,6 @@
 - 🌱 I’m currently learning **LLMs**
 
 - 💬 Ask me about **AI/ML**
-         
- ## :eyes: My Profile Views :<br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
 ## :loud_sound: GitHub Stats
