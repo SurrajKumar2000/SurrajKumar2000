@@ -7,7 +7,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurrajKumar2000&label=Profile%20views&color=0e75b6&style=flat"/> </p> <h3 align="center">A passionate AI/ML Developer</h3>
 
 
-
+- Masters in Computer Science, CSUF
 
 - 🔭 I’m currently working on **LLM based DressShop**
 
