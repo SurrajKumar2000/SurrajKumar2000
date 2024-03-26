@@ -26,3 +26,7 @@
 <h2>:mailbox_with_mail: Wanna Connect:question:</h2>
 
 <a href="mailto:surrajkumar2000@gmail.com">![surrajkumar2000@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+
+
+
+[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SurrajKumar2000&repo=SurrajKumar2000/LLM-DressShop&theme=ambient_gradient
