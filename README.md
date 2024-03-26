@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media](https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media)">
 <h3 align="center">A passionate AI/ML Developer</h3>
 
-   * Currently: M.S.Computer Science in California State University, Fullerton, USA.
-
 - 🔭 I’m currently working on **LLM based DressShop**
 
 - 🌱 I’m currently learning **LLMs**
