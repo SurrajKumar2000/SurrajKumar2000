@@ -20,7 +20,7 @@
 
 ![SK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurrajKumar2000&theme=radical&show_icons=true)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SurrajKumar2000"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurrajKumar2000&&theme=tokyonight"/></p>
 
 <h2>:mailbox_with_mail: Wanna Connect:question:</h2>
 
