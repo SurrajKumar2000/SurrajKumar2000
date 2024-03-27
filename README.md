@@ -17,6 +17,15 @@
 - 💬 Ask me about **AI/ML**
 
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+
+
+
+
+
+
 ## :loud_sound: GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SurrajKumar2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
 
