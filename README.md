@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **AI/ML**
 
+- I'm working on a paper titled "Ethical Considerations of LLMs: a Chatbot system"
+
 
 
 <h3 align="left">Languages and Tools:</h3>
