@@ -17,6 +17,8 @@
 - 💬 Ask me about **AI/ML**
 
 - I'm working on a paper titled "Ethical Considerations of LLMs: a Chatbot system"
+  
+- <i class="fa-solid fa-certificate"></i> I'm currently learning for Azure AI-102 Certification
 
 
 
